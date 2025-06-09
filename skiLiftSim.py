@@ -72,3 +72,5 @@ print(f"People left in line: {sim.N}")
 print(f"Total wait time: {sim.total_wait:.2f} sec")
 print(f"Average number in system: {sim.total_wait / sim.clock:.2f}")
 print(f"Average wait per person served: {sim.total_wait / sim.N_served:.2f} sec")
+
+print("testing version control")
